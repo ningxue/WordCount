@@ -1,0 +1,6 @@
+E:\JAVA\wordcount\wordcount\bin\Debug\wordcount.exe.config
+E:\JAVA\wordcount\wordcount\bin\Debug\wordcount.exe
+E:\JAVA\wordcount\wordcount\bin\Debug\wordcount.pdb
+E:\JAVA\wordcount\wordcount\obj\Debug\wordcount.csprojResolveAssemblyReference.cache
+E:\JAVA\wordcount\wordcount\obj\Debug\wordcount.exe
+E:\JAVA\wordcount\wordcount\obj\Debug\wordcount.pdb
